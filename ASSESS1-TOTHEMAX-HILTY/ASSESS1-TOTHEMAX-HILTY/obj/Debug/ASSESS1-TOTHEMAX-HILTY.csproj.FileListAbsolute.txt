@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\bin\Debug\ASSESS1-TOTHEMAX-HILTY.exe.config
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\bin\Debug\ASSESS1-TOTHEMAX-HILTY.exe
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\bin\Debug\ASSESS1-TOTHEMAX-HILTY.pdb
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\obj\Debug\ASSESS1-TOTHEMAX-HILTY.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\obj\Debug\ASSESS1-TOTHEMAX-HILTY.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\obj\Debug\ASSESS1-TOTHEMAX-HILTY.exe
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS1-TOTHEMAX-HILTY\ASSESS1-TOTHEMAX-HILTY\obj\Debug\ASSESS1-TOTHEMAX-HILTY.pdb

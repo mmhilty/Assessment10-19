@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\bin\Debug\ASSESS2-ODDONEOUT-HILTY.exe.config
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\bin\Debug\ASSESS2-ODDONEOUT-HILTY.exe
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\bin\Debug\ASSESS2-ODDONEOUT-HILTY.pdb
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\obj\Debug\ASSESS2-ODDONEOUT-HILTY.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\obj\Debug\ASSESS2-ODDONEOUT-HILTY.exe
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\obj\Debug\ASSESS2-ODDONEOUT-HILTY.pdb
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS2-ODDONEOUT-HILTY\ASSESS2-ODDONEOUT-HILTY\obj\Debug\ASSESS2-ODDONEOUT-HILTY.csprojAssemblyReference.cache

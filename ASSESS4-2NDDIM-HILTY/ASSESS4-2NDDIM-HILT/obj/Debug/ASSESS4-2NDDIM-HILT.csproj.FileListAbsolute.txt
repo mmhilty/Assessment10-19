@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\bin\Debug\ASSESS4-2NDDIM-HILT.exe.config
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\bin\Debug\ASSESS4-2NDDIM-HILT.exe
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\bin\Debug\ASSESS4-2NDDIM-HILT.pdb
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\obj\Debug\ASSESS4-2NDDIM-HILT.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\obj\Debug\ASSESS4-2NDDIM-HILT.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\obj\Debug\ASSESS4-2NDDIM-HILT.exe
+C:\Users\mhilty\source\repos\AssessmentWk2\ASSESS4-2NDDIM-HILTY\ASSESS4-2NDDIM-HILT\obj\Debug\ASSESS4-2NDDIM-HILT.pdb
